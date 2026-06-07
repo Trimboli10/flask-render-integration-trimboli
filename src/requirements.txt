@@ -1,6 +1,7 @@
-numpy
-pandas
-requests
-scikit-learn
 flask
 gunicorn
+statsmodels
+pmdarima
+pandas
+scikit-learn
+python-dotenv
